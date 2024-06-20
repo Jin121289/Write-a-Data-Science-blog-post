@@ -21,12 +21,12 @@ To move the downloaded files to their respective folders, execute the following 
 
 1. Stackoverflow’s 2017 data:
    ```
-   mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv
+   mv survey_results_public.csv Write-a-Data-Science-blog-post/data/2017/survey_results_public.csv
    ```
 
 2. Stackoverflow’s 2018 data:
    ```
-   mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv
+   mv survey_results_public.csv Write-a-Data-Science-blog-post/data/2018/survey_results_public.csv
    ```
 
 ## Project Motivation <a name="motivation"></a>
